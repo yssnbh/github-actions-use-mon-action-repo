@@ -9,6 +9,6 @@ jobs:
 
       - name: Dire bounjor avec mon action
         uses: yssnbh/github-actions-personne@main
-        width:
+        with:
           nom: "bouhroz"
           langue: "es"
