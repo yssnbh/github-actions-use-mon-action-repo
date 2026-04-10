@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Dire bounjor avec mon action
+      - name: Dire bounjor avec mon actionn
         uses: yssnbh/github-actions-personne@main
         with:
           nom: "bouhroz"
